@@ -1,4 +1,4 @@
 UmbrellaAppIOS
 ==============
 
-Aplicação guarda-chuva para iOS. 
+Small app for ios
